@@ -1,0 +1,5 @@
+Python, Version 3.10.18
+Streamlit, Version 1.36.0
+plotly, Version: 6.3.1
+matplotlib, Version: 3.10.6
+pandas, Version: 2.3.2

@@ -1,4 +1,14 @@
-# Streamlit live coding script
+# My first streamlit app
+# Explore Iris Dataset
+#
+# Requirements:
+# Python, Version 3.10.18
+# Streamlit, Version 1.36.0
+# plotly, Version: 6.3.1
+# matplotlib, Version: 3.10.6
+# pandas, Version: 2.3.2
+#
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -8,11 +18,6 @@ from urllib.request import urlopen
 import json
 from copy import deepcopy
 
-
-# Create a checkbox Show dataframe to display/hide your dataset.
-# Create a Plotly choropleth map, which visualizes the geospatial features and some interesting information from your dataset.
-# * Add a dropdown that lets users select based on some feature of your dataset (e.g. age of the dog owner).
-# * Add “All” option to this dropdown.
 
 
 # Add title and header
